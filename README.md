@@ -1,7 +1,7 @@
 
 # Python Pattern Drawing Program 🌟
 
-[🔗 View the Python Pattern Drawing Script](PythonPatternDrawingProject/pattern_drawing.py)
+[🔗 View the Python Pattern Drawing Code](PythonPatternDrawingProject/pattern_drawing.py)
 
 
 A simple Python program that allows users to generate various patterns, including triangles, squares, diamonds, pyramids, and more. The patterns are displayed in colorful outputs using the **Colorama** library and can be saved to a file.
